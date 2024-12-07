@@ -1,0 +1,16 @@
+8
+Hyderabad Mumbai Nellore Pune Bengaluru Delhi Vijaywada Chennai
+12
+Hyderabad Nellore 40
+Hyderabad Mumbai 65
+Pune Delhi 60
+Vijaywada Chennai 100
+Chennai Bengaluru 50
+Mumbai Nellore 120
+Bengaluru Pune 40
+Delhi Mumbai 60
+Nellore Delhi 150
+Pune Nellore 50
+Vijaywada Hyderabad 40
+Mumbai Delhi 60
+
