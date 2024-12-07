@@ -1,0 +1,34 @@
+Enter the file name: input.txt
+
+Adjacency Matrix Representation:
+           Hyderabad  Mumbai     Nellore    Pune       Bengaluru  Delhi      Vijaywada  Chennai    
+Hyderabad  INF        65         40         INF        INF        INF        40         INF        
+Mumbai     65         INF        120        INF        INF        60         INF        INF        
+Nellore    40         120        INF        50         INF        150        INF        INF       
+
+Pune       INF        INF        50         INF        40         60         INF        INF       
+
+Bengaluru  INF        INF        INF        40         INF        INF        INF        50        
+
+Delhi      INF        60         150        60         INF        INF        INF        INF       
+
+Vijaywada  40         INF        INF        INF        INF        INF        INF        100       
+
+Chennai    INF        INF        INF        INF        50         INF        100        INF       
+
+
+Enter the source node: Vijaywada 
+
+Direct connections from Vijaywada:
+ - Hyderabad       (Weight: 40)
+ - Chennai         (Weight: 100)
+
+Node            Distance from Source
+Hyderabad      40
+Mumbai         105
+Nellore        80
+Pune           130
+Bengaluru      150
+Delhi          165
+Vijaywada      0
+Chennai        100
