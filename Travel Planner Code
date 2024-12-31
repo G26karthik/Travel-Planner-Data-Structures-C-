@@ -71,6 +71,7 @@ void displayAdjacencyMatrix(int graph[MAX_NODES][MAX_NODES], int n) {
         printf("%-*s", maxNameLength + 2, nodes[i].name);  // Print row headers
         for (int j = 0; j < n; j++) {
             if (graph[i][j] == 0 || graph[i][j] == INF) {
+                
                 printf("%-*s", maxNameLength + 2, "INF");
             } else {
                 printf("%-*d", maxNameLength + 2, graph[i][j]);
