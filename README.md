@@ -20,7 +20,7 @@ This project is a **Travel Planner** developed in **C**, designed to assist user
 
    ```sh
    git clone https://github.com/G26karthik/Travel-Planner-Using-Graphs.git
-   cd Travel-Planner-Using-Graphs
+   cd Travel-Planner-Data-Structures-C-
    ```
 
 2. **Navigate to the Code Directory**:
